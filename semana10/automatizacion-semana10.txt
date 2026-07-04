@@ -1,0 +1,24 @@
+Evento: El espacio en disco de un servidor supera el 90% de su capacidad.
+
+Acción: Enviar mensaje automático a Telegram.
+
+Mensaje:
+
+⚠️ ¡ALERTA DE ALMACENAMIENTO!
+
+El servidor de producción [Servidor_B] ha superado el límite permitido.
+
+Uso actual: 94%
+
+Estado: Crítico
+
+Por favor, ejecute el script de limpieza o expanda el volumen de inmediato.
+
+Información que NO debe enviarse por seguridad:
+
+Direcciones de red: Direcciones IP públicas o privadas del servidor (192.168.x.x o IPs expuestas).
+
+Credenciales: Usuarios, contraseñas de SSH o claves de acceso raíz (root) para entrar al servidor.
+
+Rutas absolutas críticas: Nombres de carpetas internas del sistema donde están los datos sensibles 
+(por ejemplo, /var/www/html/config/secrets/).

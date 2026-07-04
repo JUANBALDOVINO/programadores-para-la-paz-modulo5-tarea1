@@ -1,0 +1,9 @@
+Las metodologías ágiles dividen las grandes metas de participación en tareas pequeñas y medibles, 
+lo que permite reaccionar rápido a las demandas ciudadanas sin atascarse en la burocracia. 
+Al sumar la automatización, se eliminan los trabajos repetitivos como el registro de asistencias 
+o el envío de actas—, liberando tiempo para el debate real y reduciendo el error humano. 
+Por su parte, canales como Telegram actúan como el sistema circulatorio del proceso: centralizan 
+la información en un solo lugar, permiten la toma de decisiones rápidas mediante encuestas integradas 
+y conectan a miles de personas al instante sin saturar sus bandejas de entrada. Juntas, estas tres 
+herramientas transforman la gestión comunitaria tradicional en un ecosistema dinámico, transparente 
+y altamente eficiente donde los ciudadanos ven que sus aportes generan un impacto real y directo.

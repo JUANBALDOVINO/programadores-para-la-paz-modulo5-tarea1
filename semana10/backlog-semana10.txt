@@ -1,0 +1,7 @@
+Como ciudadano quiero subir fotos en mi reporte para aportar evidencia clara.
+
+Como veedor quiero clasificar los reportes por sector para priorizar la atención.
+
+Como líder quiero exportar informes mensuales para presentarlos ante entes de control.
+
+Como usuario quiero seguir un caso para recibir notificaciones de sus avances.

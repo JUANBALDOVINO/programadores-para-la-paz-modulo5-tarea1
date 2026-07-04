@@ -1,0 +1,30 @@
+1. Las 2 tareas del backlog que haría primero
+
+Como ciudadano quiero subir fotos en mi reporte para aportar evidencia clara.
+
+Como veedor quiero clasificar los reportes por sector para priorizar la atención.
+
+2. ¿Por qué son las más importantes?
+Paso fundamental (Captura del valor): Sin reportes con evidencia clara, el sistema no tiene materia 
+prima sobre la cual trabajar. Permitir que el ciudadano suba la foto es el núcleo (core) de una 
+solución de veeduría; asegura la veracidad y el impacto visual de la denuncia desde el día uno.
+
+Organización operativa (Gestión del valor): El volumen de reportes puede saturar rápidamente 
+a un equipo comunitario voluntario. Clasificarlos por sector permite que la ayuda se delegue 
+de inmediato a las personas correctas (ej. vías a ingenieros, salud a personal médico) sin 
+generar un cuello de botella.
+
+3. ¿Qué significa que una tarea esté "terminada"?
+Para mí, significa que la funcionalidad es realmente usable y confiable para la comunidad, 
+no solo que el código está escrito. No se asume terminada si solo funciona en la máquina del 
+desarrollador.
+
+Mi Definición de Terminado (DoD):
+Cumple con el criterio de aceptación: La funcionalidad hace exactamente lo que el usuario 
+espera (ej. la foto se sube y se visualiza correctamente).
+
+Superó pruebas de calidad (QA): Fue probada tanto en código (pruebas unitarias) como manualmente 
+para asegurar que no rompe el resto del sistema.
+
+Está desplegada y documentada: El código está fusionado en la rama principal (main/master), 
+subido al entorno de producción o pruebas, y su uso básico quedó registrado para el equipo.
